@@ -1,0 +1,156 @@
+.container{
+    width: 1240px;
+    height: auto;
+    position: relative;
+    margin: 0 auto;
+}
+.bosh_sahifa{
+    width: 1240px;
+    height: 16px;
+    display: flex;
+    position: relative;
+    gap: 3px;
+}
+.a{
+    text-decoration: none;
+    color: black;
+font-size: 14px;
+}
+.a2{
+    text-decoration: none;
+    color: #8b8e99;
+font-size: 14px;
+}
+.p{
+    color: #8b8e99;
+    margin-top: 0px;
+    font-size: 14px;
+}
+.dbl{
+    width: 1240px;
+    height: 5956px;
+    display: flex;
+    margin-top: 30px;
+}
+.left{
+    width: 272.8px;
+    height: 100%;
+    margin-right: 3.5rem;
+    max-width: 22%;
+}
+.span1{
+columns: #1f2026;
+font-size: 1.3rem;
+line-height: 2.5rem;
+}
+.span2{
+    columns: #1f2026;
+    font-size: 1.3rem;
+    line-height: .1rem;
+    }
+.right{
+    height: 100%;
+width: 919.2px;
+}
+.h1{
+    margin-top: -1px;
+}
+.carusel{
+    width: 100%;
+    height: 50px;
+}
+.card1{
+    width: 223px;
+    height: 445.39px;
+    margin-left: 5px;
+    background-color: white;
+    border-radius: 8px;
+    position: relative;
+    cursor: pointer;
+}
+.four{
+    display: flex;
+    margin-bottom: 5px;
+    overflow: hidden;
+}
+.four2{
+    margin-bottom: 5px;
+    overflow: hidden;
+    display: none;
+}
+.img{
+    width: 100%;
+    border-radius: 8px;
+}
+.aksya{
+    width: 50px;
+    height: 21px;
+    background-color: rgb(59, 0, 125);
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: 500;
+    height: 21px;
+    margin-left: -223px;
+    margin-top: 276px;
+    padding: 0 6px;
+    border: none;
+    color: white;
+    position: absolute;
+    z-index: 1;
+}
+.yellow{
+    width: 105px;
+    height: 17px;
+    background-color: yellow;
+    border-radius: 3px;
+    padding: 0 6px;
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: -9px;
+}
+.narx{
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 18px;
+    color: rgb(31, 31, 38);
+}
+.h5{
+    color: #8b8e99;
+    margin-top: -10px;
+    margin-left: 4px;
+}
+.kir{
+    margin-top: -5px;
+    margin-left: 4px;
+}
+.h52{
+    text-decoration: line-through;
+    margin-left: 4px;
+    color: #8b8e99;
+}
+.h4{
+    margin-top: -10px;
+    margin-left: 4px;
+}.sale{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 50%;
+    border: 1px solid #8b8e99;
+    margin-left: -50px;
+    top: 400px;
+}
+.bi-bag-heart{
+    color: black;
+    font-size: 10px;
+}
+.yana{
+    width: 100%;
+    height: 60px;
+    border: none;
+    background-color: #8b8e99;
+    border-radius: 10px;
+    margin-top: 100px;
+    cursor: pointer;
+}
